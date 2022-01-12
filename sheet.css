@@ -1,0 +1,17 @@
+body{
+	background-image: url('lights.jpg');
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+h2{
+	font-size: medium;
+}
+img{
+	width: 150px;
+	margin-right:50% ;
+	margin-left:15% ;
+
+}
